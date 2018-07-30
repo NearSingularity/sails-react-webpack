@@ -1,6 +1,6 @@
 # sails-vue-webpack
 
-a [Sails v1](https://sailsjs.com) + [Vue v2](https://vuejs.org/) + [Webpack v4](https://webpack.js.org/) base app
+a [Sails v1](https://sailsjs.com) + [React v16](https://reactjs.org/) + [Webpack v4](https://webpack.js.org/) base app
 
 
 ### Links
