@@ -2,6 +2,10 @@
 
 a [Sails v1](https://sailsjs.com) + [React v16](https://reactjs.org/) + [Webpack v4](https://webpack.js.org/) base app
 
+## Get Started
+
++ `npm install`
++ `sails lift`
 
 ### Links
 
