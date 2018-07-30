@@ -1,0 +1,29 @@
+{
+  "extends": [
+    "../.eslintrc"
+  ],
+
+  "plugins": ["react", "html"],
+
+  "env": {
+    "browser": true,
+    "node": false
+  },
+
+  "parserOptions": {
+    "ecmaVersion": 8,
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+
+  "globals": {
+  },
+
+  "rules": {
+    "no-undef": [2],
+    "semi": [0],
+    "curly": [0]
+  }
+
+}
