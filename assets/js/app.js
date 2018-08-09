@@ -11,10 +11,9 @@ class App extends React.Component {
 
   render() {
     return (
-      <h1 className={styles.example}>Sails + Webpack</h1>
+      <h1 className={styles.example}>Sails + React + Webpack</h1>
     )
   }
 }
-
 
 export default App

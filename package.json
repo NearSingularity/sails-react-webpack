@@ -1,8 +1,8 @@
 {
-  "name": "sails-vue-webpack",
+  "name": "sails-react-webpack",
   "private": true,
   "version": "0.0.1",
-  "description": "Sails + Webpack + Vue app",
+  "description": "Sails + Webpack + React app",
   "keywords": [],
   "dependencies": {
     "@sailshq/connect-redis": "^3.2.1",
